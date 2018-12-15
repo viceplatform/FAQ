@@ -18,7 +18,7 @@ You can check this by going to the ''Open Coin Control'' tab again.
 
 I suggest doing this every stake. Everytime you do coin control your coins will have to mature again but since the maturity time of VICE is only 60 Minutes this is no problem.
 
-I hope this guide helped you! If you have any questions feel free to contact me on discord (Rens#6953) or comment your question here.
+I hope this guide helped you! If you have any questions feel free to contact me on discord (Vice#8131) or comment your question here.
 
 <b>For donations here is my VICE wallet address: VfAmaatKG8qTMxengoTGp3RMfF1GC7YfpQ </b>
 Links 🔗:
