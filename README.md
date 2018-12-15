@@ -6,10 +6,10 @@ Most frequently asked questions at Vice
 - 5,000 VICE
 
 <b>What is the max. coin supply of VICE ?</b>
-- 42,000,000 VICE
+- 21,000,000 VICE
 
 <b>What is the reward breakdown?</b>
-- 80% Masternodes, 20% PoS
+- 85% Masternodes, 15% PoS
 
 <b>Where can I download a wallet?</b>
 - Directly on our Github, wallets repository. Windows and Linux available (Apple comming soon). Ofcourse you can also download it from our website http://viceplatform.org
